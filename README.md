@@ -1,7 +1,7 @@
-# 👋 Hi, I'm ZeroBugMindset  
+# Upskilling FullStack QA 🚀  
 
-🚀 **QA Upskilling Journey**  
-I’m learning step by step to become a **FullStack QA Engineer**, starting with the fundamentals and building my skills across testing domains.  
+Welcome to my **Upskilling Repository**, where I document my progress in becoming a **FullStack QA Engineer**.  
+This repo contains my notes, test cases, Postman collections, and examples from my learning journey.  
 
 ---
 
@@ -11,18 +11,10 @@ I’m learning step by step to become a **FullStack QA Engineer**, starting with
 
 ---
 
-## 🔄 Next in My Learning Plan  
+## 🔄 What’s Next in My Journey  
 - Database Testing  
 - Automation Testing  
 
 ---
 
-## 📂 Featured Repo  
-👉 [FullStack-QA-Upskilling](https://github.com/ZeroBugMindset/FullStack-QA-Upskilling)  
-My open notebook for QA learning — includes notes, test cases, Postman collections, and examples.  
 
----
-
-## ✨ About Me  
-I believe in a **Zero Bug Mindset** 🐞✨ — testing with care, curiosity, and consistency.  
-This profile reflects my ongoing **upskilling journey** in QA.  
